@@ -1,2 +1,1 @@
-# Regis-AR
-Regis Augmented Reality
+# Regis AR Live
